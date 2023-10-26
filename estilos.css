@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+}
+
+img {
+ width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+   
+p {
+    text-align: center;
+}
+
+em strong {
+    color: aquamarine;
+}
+
+#missao {
+    font-size: 20px;
+}
