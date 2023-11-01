@@ -1,12 +1,17 @@
 body {
-    background-color: aqua;
+   
 }
 
 img {
- width: 100%;
+    width: 100%;
 }
 
-h1 {
+.principal{
+background: black;
+padding: 30px;
+}
+
+h1 { 
     text-align: center;
 }
    
@@ -20,4 +25,26 @@ em strong {
 
 #missao {
     font-size: 20px;
+}
+
+.beneficios {
+     backgronud: pink
+     padding: 20px;
+}
+
+h2 {
+     text-align: center;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+}
+
+.itens {
+    font-style: italis;
+}
+
+.imagembeneficios {
+    width: 50%;
 }
