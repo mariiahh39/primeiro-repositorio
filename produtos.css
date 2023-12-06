@@ -38,4 +38,39 @@ nav a:hover {
     margin: 0 auto;
     padding: 50px 0 ;
 }
-    disp
+    .produtos l1{
+      display: inline-block;
+      text-align: center;
+      width: 30%;
+      vertical-align: top;
+      margin:  0 1.5%;
+      padding: 30px 20px;
+      box-sizing: border-box;
+      border: 3px solid black;
+      border-radius: 10px;
+    }
+    .produtos li:hover {
+       border-color: aqua;
+    }
+    .produtos li :hover h2 {
+       font-size: 34px;
+    }
+    .produtos-descricao {
+       font-size: 18px
+    }
+    .produtos-preco {
+       font-size: 22px;
+       font-weight: 10px;
+       margin-top: 10px;
+    }
+    .foorter {
+       text-align: center;
+       background: url(img/jpg);
+       padding: 40px;
+    }
+    .copyright {
+       color: aliceblue;
+       font-size: 13px;
+       margin: 20px 0 x;
+    }
+    
